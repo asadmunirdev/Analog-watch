@@ -155,19 +155,4 @@ body {
     box-shadow: 0 0 10px #FFFFFF;
   }
   
-  @media only screen and (max-width: 600px) {
-    .clock {
-      width: 200px;
-      height: 200px;
-      font-size: 1rem;
-    }
-  }
-  
-  @media only screen and (max-width: 400px) {
-    .clock {
-      width: 150px;
-      height: 150px;
-      font-size: 0.8rem;
-    }
-  }
   
